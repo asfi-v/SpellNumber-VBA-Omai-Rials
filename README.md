@@ -6,9 +6,15 @@ This repository contains an Excel VBA module that converts numbers to words. The
 ## Usage
 1. Open your Excel workbook.
 2. Press `ALT + F11` to open the VBA editor.
-3. Click the Insert tab, and click Module..
-4. Copy the following lines of code.
-5. Use the `OMR` function in your Excel formulas.
+3. Click the Insert tab, and click Module.
+   
+   ![image](https://github.com/user-attachments/assets/50d06c7a-c9eb-4c5d-a74e-75c13009b2b8)
+   
+4. Copy the below VBA Code in Module.
+
+![image](https://github.com/user-attachments/assets/5ba9c84d-d199-4faf-ae1a-ddb974d9e39f)
+   
+6. Use the `OMR` function in your Excel formulas.
 
 
 ## VBA Code:
