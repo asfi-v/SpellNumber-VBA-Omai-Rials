@@ -151,4 +151,7 @@ End Function
 ## You can save your file as an **Excel Macro-Enabled Workbook (.xlsm)** to keep your file in its current format.
 1. Click **File > Save As**.
 2. Click the **Save as type** drop-down menu, and select **Excel Macro-Enabled Workbook**.
-3. Click **Save**.
+
+   ![image](https://github.com/user-attachments/assets/4c1228fc-58c4-40cf-aa9d-6b98d67e32a6)
+   
+4. Click **Save**.
