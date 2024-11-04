@@ -12,7 +12,7 @@ This repository contains an Excel VBA module that converts numbers to words. The
    
 4. Copy the below VBA Code in Module.
 
-![image](https://github.com/user-attachments/assets/5ba9c84d-d199-4faf-ae1a-ddb974d9e39f)
+   ![image](https://github.com/user-attachments/assets/5ba9c84d-d199-4faf-ae1a-ddb974d9e39f)
    
 6. Use the `OMR` function in your Excel formulas.
 
