@@ -155,3 +155,7 @@ End Function
    ![image](https://github.com/user-attachments/assets/4c1228fc-58c4-40cf-aa9d-6b98d67e32a6)
    
 4. Click **Save**.
+
+## Click the "Enable Content" buttom. if prompted while opening the "Excel Macro-Enabled Workbook"
+   ![image](https://github.com/user-attachments/assets/300a3fd9-a479-4499-8382-188892fcc53a)
+
